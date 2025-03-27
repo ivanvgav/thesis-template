@@ -9,4 +9,5 @@ necesario para poder llevar a cabo un plan de tesis y la tesis misma.
 - Recursos para poder trabajar a lo largo de la tesis (por ejemplo: bitácora y clogs)
 - Método de trabajo para agregar, quitar y corregir el trabajo de los tesistas
 
-Toda la información necesaria se encuentra en la pestaña de **Wiki** de este repositorio.
+Toda la información necesaria se encuentra en la
+pestaña de [**Wiki**](https://github.com/ivanvgav/thesis-template/wiki) de este repositorio.
